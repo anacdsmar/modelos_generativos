@@ -1,16 +1,14 @@
 # Transformers Notebooks
 
-This repository contains the example code from our O'Reilly book [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/):
+Este repositório contém o código adaptado a partir do livro [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
-<img alt="book-cover" height=200 src="images/book_cover.jpg" id="book-cover"/>
+## Como começar
 
-## Getting started
+Poderá correr estes notebooks em plataformas cloud como [Google Colab](https://colab.research.google.com/) ou na sua máquina pessoal (excepto MAC). Notar que a maioria dos notebooks apenas corre com uma velocidade razoável se a máquina tiver GPU. Assim, recomenda-se que se utiliza uma plataforma cloud já que estas têm CUDA já pré-instalado.
 
-You can run these notebooks on cloud platforms like [Google Colab](https://colab.research.google.com/) or your local machine. Note that most chapters require a GPU to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
+### Correr numa plataforma Cloud
 
-### Running on a cloud platform
-
-To run these notebooks on a cloud platform, just click on one of the badges in the table below:
+Para correr estes notebooks numa plataforma cloud, apenas carregue nos links abaixo:
 
 <!--This table is automatically generated, do not fill manually!-->
 
